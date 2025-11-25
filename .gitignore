@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.log
+*.egg-info/
+
+# Environments / IDE
+.venv/
+venv/
+.idea/
+.vscode/
+.python-version
+
+# Checkpoints / outputs
+outputs/
+*.pt
+
+# Local credentials
+.env
