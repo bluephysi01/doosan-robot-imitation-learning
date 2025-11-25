@@ -75,3 +75,7 @@ python -m lerobot.scripts.lerobot_train \
 - 카메라 인덱스/해상도는 `act_doosan_bridge.py` 옵션으로 조정 가능합니다.
 - 그리퍼 스트로크는 0~700 양자화, 조인트 명령은 0.15s 주기. 명령 과출력을 막기 위해 허용 오차를 갖습니다.
 - HF 업로드 전 `HF_USER` 환경변수 설정을 권장합니다.
+
+## 작업 영상
+
+![Demo GIF](assets/il_demo.gif)
